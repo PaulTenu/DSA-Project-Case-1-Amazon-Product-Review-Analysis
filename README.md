@@ -25,3 +25,28 @@ RetailTech Insights aim to analyse product and customer review data to uncover a
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
 15. Dashboard Creation <a href = "https://github.com/PaulTenu/DSA-Project-Case-1-Amazon-Product-Review-Analysis/blob/main/Screenshot_Dashboard.png">view Dashboard</a>
+
+## Exploratory Data Analysis
+- Verify data for any missing values and anomalies, and sort out the same
+- Made sure data is consistent and clean with respect to data type, data format and values used
+- Created pivot tables according to the questions asked. A process that was achieved in the folllowing processes;
+  - Average discount percentage by product category was achieved by adding a **calculated table** named *Discout Percentage* by;
+    - = (Actual Price - Discounted Price) / Actual Price * 100
+    - Then use a Pivot Table: *Rows - Category, Values - Discount % → summarize by Average*
+  - How many products have a discount of 50% or more was also achieved by Adding another calculated column, *Discounted Product Count* as follows;
+    - =IF(Discount % >= 50, "Yes", "No") Then use a COUNTIF.
+  - Number of unique products per price range bucket. This wa handled by Creating a new column, *Price Bucket*:
+    - Excel formular=IF(Discounted Price < 200, "<₹200", IF(Discounted Price <= 500, "$200–$500", ">$500"))
+    - Use a pivot table *Rows: Price Bucket, Values: Product Name → Count*
+  - How does the rating relate to the level of discount Was addressed by Creating a *scatter chart*: *X-axis: Discount % Y-axis: Average Rating*.
+  - Lastly, Top 5 products by rating + number of reviews combined was achieved by adding a new column thus,
+    - =Average Rating + (Rating Count / Scaling Factor), a factor like 1000 was chosen to balance weight) and finally Sorted by descending and the top 5 picked.
+
+## Dashboard
+
+![Screenshot_Dashboard](https://github.com/user-attachments/assets/f33ada72-1f31-4ceb-9d5a-0041ecf5c8fe)
+
+
+
+
+
