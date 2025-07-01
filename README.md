@@ -1,2 +1,6 @@
-# DSA-Project-1-Amazon-Product-Review-Analysis-Dashboard-Excel-
-This project showcases a comprehensive and interactive dashboard developed in Microsoft Excel to analyze product review data sourced from Amazon. The workflow included multiple critical stages: Data Preprocessing, Cleaning, Modelling and Visualization.
+# Amazon- Product Review Analysis Dashboard(Excel)
+
+## Project Objective
+RetailTech Insights aim to analyse product and customer review data to uncover actionable insights. The primary goal is to support data-driven decision-making across product development, marketing, and customer engagement strategies. By identifying patterns in customer feedback and product performance the project aims to Highlight areas for product improvement, Inform targeted marketing campaigns and Enhance customer satisfaction and loyalty through better engagement.
+
+Data Set used
