@@ -5,4 +5,4 @@ RetailTech Insights aim to analyse product and customer review data to uncover a
 
 ##Data Set used
 
-<a href = "https://github.com/PaulTenu/DSA-Project-Case-1-Amazon-Product-Review-Analysis/blob/main/DSA%20CAPSTONE%20PROJECT_QNS_1_EXCEL.xlsx">Data set</a>
+- <a href = "https://github.com/PaulTenu/DSA-Project-Case-1-Amazon-Product-Review-Analysis/blob/main/DSA%20CAPSTONE%20PROJECT_QNS_1_EXCEL.xlsx">Data set</a>
