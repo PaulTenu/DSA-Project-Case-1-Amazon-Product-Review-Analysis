@@ -24,4 +24,4 @@ RetailTech Insights aim to analyse product and customer review data to uncover a
 12. How many products have fewer than 1,000 reviews?
 13. Which categories have products with the highest discounts?
 14. Identify the top 5 products in terms of rating and number of reviews combined.
-15. Dashboard Creation
+15. Dashboard Creation <a href = "https://github.com/PaulTenu/DSA-Project-Case-1-Amazon-Product-Review-Analysis/blob/main/Screenshot_Dashboard.png">view Dashboard</a>
