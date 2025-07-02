@@ -1,7 +1,7 @@
 # Amazon- Product Review Analysis Dashboard(Excel)
 
 ## Project Objective
-RetailTech Insights aim to analyse product and customer review data to uncover actionable insights. The primary goal is to support data-driven decision-making across product development, marketing, and customer engagement strategies. By identifying patterns in customer feedback and product performance the project aims to Highlight areas for product improvement, Inform targeted marketing campaigns and Enhance customer satisfaction and loyalty through better engagement.
+This Project aims to analyse product and customer review data to uncover actionable insights. The primary goal is to support data-driven decision-making across product development, marketing, and customer engagement strategies. By identifying patterns in customer feedback and product performance, the project aims to Highlight areas for product improvement, Inform targeted marketing campaigns and Enhance customer satisfaction and loyalty through better engagement.
 
 ## Data Set used
 
